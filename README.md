@@ -16,11 +16,4 @@ This project utilizes LSTM (Long Short-Term Memory) and SVM (Support Vector Mach
 
 ### Prerequisites
 - Python 3.x installed
-- Required Python libraries (listed below)
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/stock-prediction-model.git
-   cd stock-prediction-model
+- Required Python libraries 
